@@ -1,0 +1,14 @@
+{
+  "name": "62f7d896c2ff3e26",
+  "main": "62f7d896c2ff3e26@237.js",
+  "version": "237.0.0",
+  "homepage": "https://observablehq.com/d/62f7d896c2ff3e26",
+  "author": {
+    "name": "Rachel Ooi",
+    "url": "https://observablehq.com/@rachohs"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
