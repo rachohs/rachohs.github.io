@@ -88,7 +88,7 @@ function rank(value) {
 )}
 
 function _margin(){return(
-{top: 16, right: 250, bottom: 6, left: 0}
+{top: 16, right: 200, bottom: 6, left: 0}
 )}
 
 function _barSize(){return(
